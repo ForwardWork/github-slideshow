@@ -1,6 +1,7 @@
 ---
+---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left Arrow to go back!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+use the left arrow to go back!
